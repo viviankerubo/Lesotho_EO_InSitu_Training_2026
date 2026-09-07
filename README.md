@@ -7,10 +7,8 @@
 
 | Folder | Contents |
 |---|---|
-| `input_data/Leribe/` | Wheat classification raster, wheat likelihood raster, slope/DEM raster |
-| `input_data/Mafeteng/` | Wheat classification raster, wheat likelihood raster, slope/DEM raster |
-| `input_data/Berea/` | Wheat classification raster, wheat likelihood raster, slope/DEM raster |
-| `input_data/vectors/` | AEZ (agro-ecological zone) shapefile, district boundary shapefile |
+| `data/` | Wheat classification raster, wheat likelihood raster, slope/DEM raster |
+| `data/` | AEZ (agro-ecological zone) shapefile, district boundary shapefile |
 
 ## Methodology
 
