@@ -1,10 +1,9 @@
 # Winter Wheat Survey Design
 
-| Notebook | Open in Colab |
-|---|---|
-| `winter_wheat_survey_tutorial.ipynb` — enumerator training tutorial: sampling strata, allocation, PSU/SSU selection, and fieldwork assignments | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viviankerubo/Lesotho_EO_InSitu_Training_2026/blob/main/winter_wheat_survey_tutorial.ipynb) |
+| Notebook | Open in Colab | Open in Binder |
+|---|---|---|
 
-## Data
+| `Winter_wheat_survey_design_demo.ipynb` — interactive sampling design walkthrough with live sliders for variance, cost ratio, and PSU/SSU trade-offs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/viviankerubo/Lesotho_EO_InSitu_Training_2026/blob/main/Winter_wheat_survey_design_demo.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viviankerubo/Lesotho_EO_InSitu_Training_2026/main?filepath=Winter_wheat_survey_design_demo.ipynb) |
 
 | Folder | Contents |
 |---|---|
